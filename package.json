@@ -23,7 +23,7 @@
     "node": ">=10.15.3"
   },
   "dependencies": {
-    "bitcoincash-zmq-decoder": "0.1.5",
+    "bitcoincash-zmq-decoder": "ZSLP/bitcoincash-zmq-decoder",
     "body-parser": "^1.18.3",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
@@ -64,7 +64,6 @@
     "node-mocks-http": "^1.7.0",
     "nodemon": "^1.18.1",
     "nyc": "^11.6.0",
-    "pandacash-core": "^0.1.0",
     "prettier": "^1.14.2",
     "proxyquire": "^2.1.0",
     "request": "^2.88.0",
